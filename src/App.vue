@@ -22,4 +22,5 @@ export default {
 
 <style lang="scss" scoped>
 @import './style/generals';
+@import './style/utilities';
 </style>
