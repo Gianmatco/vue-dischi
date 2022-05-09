@@ -1,6 +1,6 @@
 <template>
-<header class="nav">
-   
+<header class="nav g-3">
+  <img src="../assets/images/logo-spotify.png" alt=""> 
 </header>
 </template>
 
@@ -18,6 +18,9 @@ export default {
   width: 100%;
   background-color: #2e3a46;
   color: white;
+  img{
+    width: 80px;
+  }
 
 }
 

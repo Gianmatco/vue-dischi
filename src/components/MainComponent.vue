@@ -1,6 +1,18 @@
 <template>
 <main>
-    fgdknj
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                Column
+            </div>
+            <div class="col">
+                Column
+             </div>
+            <div class="col">
+                Column
+            </div>
+        </div>
+    </div>
 </main>
 </template>
 
@@ -14,7 +26,7 @@ export default {
 <style lang="scss" scoped>
 main{
     background-color: #1e2d3b;
-    width: 100%;
+    
 }
 
 </style>
