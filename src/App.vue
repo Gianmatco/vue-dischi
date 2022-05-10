@@ -20,7 +20,8 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
 @import './style/generals';
 @import './style/utilities';
+
 </style>
